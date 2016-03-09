@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{bouzalmat2014comparative}
+A.~Bouzalmat, J.~Kharroubi, and A.~Zarghili.
+\newblock Comparative study of pca, ica, lda using svm classifier.
+\newblock {\em Journal of Emerging Technologies in Web Intelligence},
+  6(1):64--68, 2014.
+
+\bibitem{bouzalmat2011facial}
+A.~Bouzalmat, A.~Zarghili, and J.~Kharroubi.
+\newblock Facial face recognition method using fourier transform filters gabor
+  and r\_lda.
+\newblock {\em IJCA Special Issue on Intelligent Systems and Data Processing},
+  pages 18--24, 2011.
+
+\bibitem{bowyer2004face}
+K.~W. Bowyer.
+\newblock Face recognition technology: security versus privacy.
+\newblock {\em Technology and Society Magazine, IEEE}, 23(1):9--19, 2004.
+
+\bibitem{dehai2013pca}
+Z.~Dehai, D.~Da, L.~Jin, and L.~Qing.
+\newblock A pca-based face recognition method by applying fast fourier
+  transform in pre-processing.
+\newblock In {\em 3rd International Conference on Multimedia Technology
+  (ICMT-13)}. Atlantis Press, 2013.
+
+\bibitem{erkin2009privacy}
+Z.~Erkin, M.~Franz, J.~Guajardo, S.~Katzenbeisser, I.~Lagendijk, and T.~Toft.
+\newblock Privacy-preserving face recognition.
+\newblock In {\em Privacy Enhancing Technologies}, pages 235--253. Springer,
+  2009.
+
+\bibitem{kevenaar2005face}
+T.~A. Kevenaar, G.~J. Schrijen, M.~van~der Veen, A.~H. Akkermans, and F.~Zuo.
+\newblock Face recognition with renewable and privacy preserving binary
+  templates.
+\newblock In {\em Automatic Identification Advanced Technologies, 2005. Fourth
+  IEEE Workshop on}, pages 21--26. IEEE, 2005.
+
+\bibitem{sadeghi2010efficient}
+A.-R. Sadeghi, T.~Schneider, and I.~Wehrenberg.
+\newblock Efficient privacy-preserving face recognition.
+\newblock In {\em Information, Security and Cryptology--ICISC 2009}, pages
+  229--244. Springer, 2010.
+
+\bibitem{samra2003face}
+A.~S. Samra, S.~G. El~Taweel Gad~Allah, and R.~M. Ibrahim.
+\newblock Face recognition using wavelet transform, fast fourier transform and
+  discrete cosine transform.
+\newblock In {\em Circuits and Systems, 2003 IEEE 46th Midwest Symposium on},
+  volume~1, pages 272--275. IEEE, 2003.
+
+\bibitem{spies2000face}
+H.~Spies and I.~Ricketts.
+\newblock Face recognition in fourier space.
+\newblock In {\em Vision Interface}, volume 2000, pages 38--44, 2000.
+
+\end{thebibliography}

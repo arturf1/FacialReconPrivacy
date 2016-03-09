@@ -1,0 +1,26 @@
+\contentsline {chapter}{\numberline {1}Introduction}{6}{chapter.1}
+\contentsline {subsection}{\numberline {1.0.1}Square Error Accountability}{8}{subsection.1.0.1}
+\contentsline {paragraph}{}{8}{section*.8}
+\contentsline {subsection}{\numberline {1.0.2}Conclusions on Sum of Square Errors of Unnormalized Output}{10}{subsection.1.0.2}
+\contentsline {paragraph}{}{10}{section*.9}
+\contentsline {paragraph}{}{10}{section*.10}
+\contentsline {section}{\numberline {1.1}Risk Residuals}{21}{section.1.1}
+\contentsline {paragraph}{}{21}{section*.13}
+\contentsline {subsection}{\numberline {1.1.1}Distance to car in front (dist\_MM, dist\_L, dist\_R)}{22}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Distance to cars in left and right lanes (dist\_LL, dist\_RR)}{22}{subsection.1.1.2}
+\contentsline {subsection}{\numberline {1.1.3}Distance to markings of current lane (toMarking\_ML, toMarking\_MR, toMarking\_M)}{22}{subsection.1.1.3}
+\contentsline {subsection}{\numberline {1.1.4}Distance to markings of other lanes (toMarking\_LL, toMarking\_RR, toMarking\_L, toMarking\_R)}{22}{subsection.1.1.4}
+\contentsline {subsection}{\numberline {1.1.5}Angle between car and road headings (angle)}{23}{subsection.1.1.5}
+\contentsline {section}{\numberline {1.2}Sum of Risk Residuals of Raw Output}{23}{section.1.2}
+\contentsline {paragraph}{}{23}{section*.14}
+\contentsline {section}{\numberline {1.3}Grading Algorithm}{25}{section.1.3}
+\contentsline {paragraph}{}{25}{section*.16}
+\contentsline {section}{\numberline {1.4}Grading}{25}{section.1.4}
+\contentsline {paragraph}{}{25}{section*.17}
+\contentsline {paragraph}{}{27}{section*.18}
+\contentsline {paragraph}{}{27}{section*.19}
+\contentsline {section}{\numberline {1.5}Learning}{27}{section.1.5}
+\contentsline {paragraph}{}{27}{section*.20}
+\contentsline {paragraph}{}{27}{section*.21}
+\contentsline {paragraph}{}{27}{section*.22}
+\contentsline {paragraph}{}{28}{section*.23}

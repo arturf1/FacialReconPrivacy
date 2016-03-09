@@ -1,0 +1,10 @@
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Visual representation of the indicators. Reproduced from \cite {chen2015deepdriving}\relax }}{6}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Average percent of total error explained as number of top error contributing indicators. Indicators are in the same order as listed below.\relax }}{9}{figure.1.2}
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Error distributions for probabilistic difficulty example. \relax }}{24}{figure.caption.15}
+\contentsline {subfigure}{\numberline {(a)}{\ignorespaces {Case 1 Angle Distribution}}}{24}{subfigure.3.1}
+\contentsline {subfigure}{\numberline {(b)}{\ignorespaces {Case 1 Distance Distribution}}}{24}{subfigure.3.2}
+\contentsline {subfigure}{\numberline {(c)}{\ignorespaces {Case 2 Angle Distribution}}}{24}{subfigure.3.3}
+\contentsline {subfigure}{\numberline {(d)}{\ignorespaces {Case 2 Distance Distribution}}}{24}{subfigure.3.4}
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Overview of the grading algorithm.\relax }}{25}{figure.1.4}
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Mean Absolute Error during Normal Training\relax }}{26}{figure.1.5}

@@ -1,0 +1,26 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{My Classification Systems}{}% 2
+\BOOKMARK [1][-]{section.3}{Filters}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Variance}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Signal to Noise Ration}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Fisher Discriminant Ratio}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Symmetric Divergence}{section.3}% 7
+\BOOKMARK [2][-]{subsection.3.5}{T}{section.3}% 8
+\BOOKMARK [2][-]{subsection.3.6}{Rectangle}{section.3}% 9
+\BOOKMARK [2][-]{subsection.3.7}{Triangle}{section.3}% 10
+\BOOKMARK [1][-]{section.4}{Method}{}% 11
+\BOOKMARK [2][-]{subsection.4.1}{Classification}{section.4}% 12
+\BOOKMARK [2][-]{subsection.4.2}{Reconstruction}{section.4}% 13
+\BOOKMARK [1][-]{section.5}{Experimental Results}{}% 14
+\BOOKMARK [2][-]{subsection.5.1}{Basic Observations}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.2}{Yale Database FFT Accuracy}{section.5}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Olivetti Database FFT Accuracy}{section.5}% 17
+\BOOKMARK [2][-]{subsection.5.4}{Yale Database WT Accuracy}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.5}{Olivetti Database WT Accuracy}{section.5}% 19
+\BOOKMARK [2][-]{subsection.5.6}{Yale Database FFT Accuracy Graphs}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.7}{Olivetti Database FFT Accuracy Graphs}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.8}{Olivetti Database Wavelet Accuracy Graphs}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.9}{Yale FFT Reconstructions}{section.5}% 23
+\BOOKMARK [2][-]{subsection.5.10}{Yale FFT Filters}{section.5}% 24
+\BOOKMARK [2][-]{subsection.5.11}{Yale WT Reconstructions}{section.5}% 25
+\BOOKMARK [1][-]{section.6}{Conclusions}{}% 26
