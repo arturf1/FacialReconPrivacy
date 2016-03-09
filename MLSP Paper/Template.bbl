@@ -1,0 +1,62 @@
+\begin{thebibliography}{1}
+
+\bibitem{bowyer2004face}
+Kevin~W Bowyer,
+\newblock ``Face recognition technology: security versus privacy,''
+\newblock {\em Technology and Society Magazine, IEEE}, vol. 23, no. 1, pp.
+  9--19, 2004.
+
+\bibitem{bouzalmat2014comparative}
+Anissa Bouzalmat, Jamal Kharroubi, and Arsalane Zarghili,
+\newblock ``Comparative study of pca, ica, lda using svm classifier,''
+\newblock {\em Journal of Emerging Technologies in Web Intelligence}, vol. 6,
+  no. 1, pp. 64--68, 2014.
+
+\bibitem{spies2000face}
+Hagen Spies and Ian Ricketts,
+\newblock ``Face recognition in fourier space,''
+\newblock in {\em Vision Interface}, 2000, vol. 2000, pp. 38--44.
+
+\bibitem{bouzalmat2011facial}
+Anissa Bouzalmat, Arsalane Zarghili, and Jamal Kharroubi,
+\newblock ``Facial face recognition method using fourier transform filters
+  gabor and r\_lda,''
+\newblock {\em IJCA Special Issue on Intelligent Systems and Data Processing},
+  pp. 18--24, 2011.
+
+\bibitem{dehai2013pca}
+Zhang Dehai, Ding Da, Li~Jin, and Liu Qing,
+\newblock ``A pca-based face recognition method by applying fast fourier
+  transform in pre-processing,''
+\newblock in {\em 3rd International Conference on Multimedia Technology
+  (ICMT-13)}. Atlantis Press, 2013.
+
+\bibitem{samra2003face}
+Ahmed~Shabaan Samra, Salah~Gad El~Taweel Gad~Allah, and Rehab~Mahmoud Ibrahim,
+\newblock ``Face recognition using wavelet transform, fast fourier transform
+  and discrete cosine transform,''
+\newblock in {\em Circuits and Systems, 2003 IEEE 46th Midwest Symposium on}.
+  IEEE, 2003, vol.~1, pp. 272--275.
+
+\bibitem{erkin2009privacy}
+Zekeriya Erkin, Martin Franz, Jorge Guajardo, Stefan Katzenbeisser, Inald
+  Lagendijk, and Tomas Toft,
+\newblock ``Privacy-preserving face recognition,''
+\newblock in {\em Privacy Enhancing Technologies}. Springer, 2009, pp.
+  235--253.
+
+\bibitem{sadeghi2010efficient}
+Ahmad-Reza Sadeghi, Thomas Schneider, and Immo Wehrenberg,
+\newblock ``Efficient privacy-preserving face recognition,''
+\newblock in {\em Information, Security and Cryptology--ICISC 2009}, pp.
+  229--244. Springer, 2010.
+
+\bibitem{kevenaar2005face}
+Tom~AM Kevenaar, Geert~Jan Schrijen, Michiel van~der Veen, Anton~HM Akkermans,
+  and Fei Zuo,
+\newblock ``Face recognition with renewable and privacy preserving binary
+  templates,''
+\newblock in {\em Automatic Identification Advanced Technologies, 2005. Fourth
+  IEEE Workshop on}. IEEE, 2005, pp. 21--26.
+
+\end{thebibliography}

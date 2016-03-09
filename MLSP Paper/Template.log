@@ -1,0 +1,502 @@
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2015.9.1)  3 MAR 2016 09:28
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Template.tex
+(./Template.tex
+LaTeX2e <2011/06/27>
+Babel <3.9h> and hyphenation patterns for 2 languages loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks14
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks15
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks16
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks17
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks18
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count99
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(./mlspconf.sty) (./Template.aux
+
+LaTeX Warning: Label `fig:res' multiply defined.
+
+
+LaTeX Warning: Label `fig:res' multiply defined.
+
+
+LaTeX Warning: Label `fig:res' multiply defined.
+
+)
+\openout1 = `Template.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 47.
+LaTeX Font Info:    ... okay on input line 47.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 47.
+ (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count100
+\scratchdimen=\dimen114
+\scratchbox=\box28
+\nofMPsegments=\count101
+\nofMParguments=\count102
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count103
+\MPscratchDim=\dimen115
+\MPnumerator=\count104
+\makeMPintoPDFobject=\count105
+\everyMPtoPDFconversion=\toks21
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 51.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 53.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 64.
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 71--105
+
+ []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+
+Overfull \vbox (5.4559pt too high) has occurred while \output is active []
+
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 118.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <9> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 118.
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+
+]
+<mysys.PNG, id=11, 588.69937pt x 101.62968pt>
+File: mysys.PNG Graphic file (type png)
+ <use mysys.PNG>
+Package pdftex.def Info: mysys.PNG used on input line 123.
+(pdftex.def)             Requested size: 241.84842pt x 41.75063pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--143
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 148--168
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--202
+
+ []
+
+<rect.png, id=13, 523.9575pt x 213.79875pt>
+File: rect.png Graphic file (type png)
+ <use rect.png>
+Package pdftex.def Info: rect.png used on input line 215.
+(pdftex.def)             Requested size: 241.84842pt x 98.68463pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--231
+
+ []
+
+[2 <./mysys.PNG>] <tri.png, id=25, 529.98pt x 225.09094pt>
+File: tri.png Graphic file (type png)
+ <use tri.png>
+Package pdftex.def Info: tri.png used on input line 244.
+(pdftex.def)             Requested size: 241.84842pt x 102.71877pt.
+
+<recon/Original1o.png, id=26, 578.16pt x 433.62pt>
+File: recon/Original1o.png Graphic file (type png)
+ <use recon/Original1o.png>
+Package pdftex.def Info: recon/Original1o.png used on input line 293.
+(pdftex.def)             Requested size: 113.81102pt x 85.35284pt.
+
+<recon/Recon1o.png, id=27, 578.16pt x 433.62pt>
+File: recon/Recon1o.png Graphic file (type png)
+ <use recon/Recon1o.png>
+Package pdftex.def Info: recon/Recon1o.png used on input line 300.
+(pdftex.def)             Requested size: 113.81102pt x 85.35284pt.
+
+<recon/denorm_Yale.jpg, id=28, 83.31125pt x 83.31125pt>
+File: recon/denorm_Yale.jpg Graphic file (type jpg)
+
+<use recon/denorm_Yale.jpg>
+Package pdftex.def Info: recon/denorm_Yale.jpg used on input line 324.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+
+<recon/norm_Yale.jpg, id=29, 83.31125pt x 83.31125pt>
+File: recon/norm_Yale.jpg Graphic file (type jpg)
+
+<use recon/norm_Yale.jpg>
+Package pdftex.def Info: recon/norm_Yale.jpg used on input line 331.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+ [3 <./rect.png> <./tri.png> <./recon/Original1o.png> <./recon/Recon1o.png>]
+<recon/rectF_399_yale.jpg, id=37, 83.31125pt x 83.31125pt>
+File: recon/rectF_399_yale.jpg Graphic file (type jpg)
+
+<use recon/rectF_399_yale.jpg>
+Package pdftex.def Info: recon/rectF_399_yale.jpg used on input line 377.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+
+<recon/varF_399_yale.jpg, id=38, 83.31125pt x 83.31125pt>
+File: recon/varF_399_yale.jpg Graphic file (type jpg)
+
+<use recon/varF_399_yale.jpg>
+Package pdftex.def Info: recon/varF_399_yale.jpg used on input line 384.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+
+<recon/snrF_399_yale.jpg, id=39, 83.31125pt x 83.31125pt>
+File: recon/snrF_399_yale.jpg Graphic file (type jpg)
+
+<use recon/snrF_399_yale.jpg>
+Package pdftex.def Info: recon/snrF_399_yale.jpg used on input line 391.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+
+<recon/tF_399_yale.jpg, id=40, 83.31125pt x 83.31125pt>
+File: recon/tF_399_yale.jpg Graphic file (type jpg)
+
+<use recon/tF_399_yale.jpg>
+Package pdftex.def Info: recon/tF_399_yale.jpg used on input line 398.
+(pdftex.def)             Requested size: 113.81102pt x 113.81917pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<recon/varF_399_yaleWL.jpg, id=41, 84.315pt x 84.315pt>
+File: recon/varF_399_yaleWL.jpg Graphic file (type jpg)
+
+<use recon/varF_399_yaleWL.jpg>
+Package pdftex.def Info: recon/varF_399_yaleWL.jpg used on input line 444.
+(pdftex.def)             Requested size: 113.81102pt x 113.81387pt.
+
+<recon/tF_399_yaleWL.jpg, id=42, 84.315pt x 84.315pt>
+File: recon/tF_399_yaleWL.jpg Graphic file (type jpg)
+
+<use recon/tF_399_yaleWL.jpg>
+Package pdftex.def Info: recon/tF_399_yaleWL.jpg used on input line 451.
+(pdftex.def)             Requested size: 113.81102pt x 113.81387pt.
+
+
+LaTeX Warning: Text page 4 contains only floats.
+
+[4 <./recon/denorm_Yale.jpg> <./recon/norm_Yale.jpg> <./recon/rectF_399_yale.jp
+g> <./recon/varF_399_yale.jpg> <./recon/snrF_399_yale.jpg> <./recon/tF_399_yale
+.jpg> <./recon/varF_399_yaleWL.jpg> <./recon/tF_399_yaleWL.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 472--479
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 472--479
+
+ []
+
+<filter/rectF_399.jpg, id=46, 63.23625pt x 32.12pt>
+File: filter/rectF_399.jpg Graphic file (type jpg)
+ <use filter/rectF_399.jpg>
+Package pdftex.def Info: filter/rectF_399.jpg used on input line 513.
+(pdftex.def)             Requested size: 113.81102pt x 57.81003pt.
+
+<filter/varF_399.jpg, id=47, 63.23625pt x 32.12pt>
+File: filter/varF_399.jpg Graphic file (type jpg)
+ <use filter/varF_399.jpg>
+Package pdftex.def Info: filter/varF_399.jpg used on input line 520.
+(pdftex.def)             Requested size: 113.81102pt x 57.81003pt.
+
+<filter/snrF_399.jpg, id=48, 63.23625pt x 32.12pt>
+File: filter/snrF_399.jpg Graphic file (type jpg)
+ <use filter/snrF_399.jpg>
+Package pdftex.def Info: filter/snrF_399.jpg used on input line 527.
+(pdftex.def)             Requested size: 113.81102pt x 57.81003pt.
+
+<filter/tF_399.jpg, id=49, 63.23625pt x 32.12pt>
+File: filter/tF_399.jpg Graphic file (type jpg)
+ <use filter/tF_399.jpg>
+Package pdftex.def Info: filter/tF_399.jpg used on input line 534.
+(pdftex.def)             Requested size: 113.81102pt x 57.81003pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--555
+
+ []
+
+(./Template.bbl
+Underfull \hbox (badness 2970) in paragraph at lines 10--14
+[]\OT1/ptm/m/n/10 Anissa Bouzal-mat, Ja-mal Khar-roubi, and Ar-salane
+ []
+
+
+Underfull \hbox (badness 1184) in paragraph at lines 42--47
+[]\OT1/ptm/m/n/10 Zekeriya Erkin, Mar-tin Franz, Jorge Gua-jardo, Ste-
+ []
+
+[5 <./filter/rectF_399.jpg> <./filter/varF_399.jpg> <./filter/snrF_399.jpg> <./
+filter/tF_399.jpg>]) [6
+
+] (./Template.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2314 strings out of 495028
+ 31536 string characters out of 6181498
+ 94307 words of memory out of 5000000
+ 5467 multiletter control sequences out of 15000+600000
+ 23362 words of font info for 49 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 37i,10n,23p,255b,283s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y9.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/urw/times/utmri8a.pfb>
+Output written on Template.pdf (6 pages, 332056 bytes).
+PDF statistics:
+ 95 PDF objects out of 1000 (max. 8388607)
+ 52 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
